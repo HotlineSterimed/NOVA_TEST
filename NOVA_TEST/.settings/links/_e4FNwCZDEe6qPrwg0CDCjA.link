@@ -1,0 +1,17 @@
+{
+  "itemId" : "_e4FNwCZDEe6qPrwg0CDCjA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_aytT0CZDEe6qPrwg0CDCjA",
+    "parameterList" : [ {
+      "id" : "_ay7WQSZDEe6qPrwg0CDCjA",
+      "name" : "in"
+    }, {
+      "id" : "_ay7WQiZDEe6qPrwg0CDCjA",
+      "name" : "out"
+    }, {
+      "id" : "_FJ7LECbTEe6qPrwg0CDCjA",
+      "name" : "ftp_adp"
+    } ]
+  } ]
+}
